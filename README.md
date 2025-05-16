@@ -1,6 +1,6 @@
 # 📐 Azimuth Overlay Extension for Google Maps
 
-This Chrome Extension allows you to place and rotate a compass rose (azimuth image) on Google Maps. Useful for visualizing directions between points.
+This Chrome Extension allows you to place and rotate a compass rose (azimuth image) on Google Maps. Useful for visualizing directions between points. [Click to install](https://chromewebstore.google.com/detail/mapangle/eojfbcmelnpfkanhhdklcejdljkgcmka).
 
 ![](https://github.com/nickname137/MapAngle/blob/main/mapAngle.png)
 ---
